@@ -1,0 +1,1 @@
+INSERT INTO agents VALUES (1, 'themendev');
